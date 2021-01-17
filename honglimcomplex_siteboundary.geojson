@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
-"name": "honglimcomplex_siteboundary",
+"name": "siteboundary_",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Name": "honglimcomplex" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 103.8453131435069, 1.285279506209535, 0.0 ], [ 103.846513689789262, 1.284595257033061, 0.0 ], [ 103.846062707377484, 1.28383947271541, 0.0 ], [ 103.844859050871605, 1.284529942338943, 0.0 ], [ 103.8453131435069, 1.285279506209535, 0.0 ] ] ] } }
+{ "type": "Feature", "properties": { "Name": "honglimcomplex" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 103.845532614729464, 1.2857004616, 0.0 ], [ 103.846751822352985, 1.285031763541177, 0.0 ], [ 103.846062707377484, 1.28383947271541, 0.0 ], [ 103.844859050871605, 1.284529942338943, 0.0 ], [ 103.845532614729464, 1.2857004616, 0.0 ] ] ] } }
 ]
 }
